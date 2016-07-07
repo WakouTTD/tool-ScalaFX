@@ -1,0 +1,9 @@
+/target/*
+project/target/*
+.history
+project.vim
+*.old
+.idea
+.project
+.classpath
+.metadata/
